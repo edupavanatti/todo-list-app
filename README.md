@@ -27,15 +27,17 @@ React | Ionic | Vite | TypeScript | JSON Server
 
 🔧 Instalação e Execução
 -
-1. Clone o repositório:<br>
+1. Clone o repositório e navegue para a pasta do projeto:<br>
    <mark>git clone https://github.com/edupavanatti/todo-list-app.git<br>
    cd todo-list-app<br><br>
 2. Instale as dependências:<br>
    <mark>npm install<br><br>
 3. Inicie a mock API (JSON Server):<br>
-   <mark>npm run start:api<br><br>
-4. Inicie o projeto:<br>
-   <mark>ionic serve
+   <mark>npm run start:api</mark><br>
+   A API será iniciada em http://localhost:3001.<br><br>
+4. Inicie o projeto em modo desenvolvimento:<br>
+   <mark>npm run dev</mark><br>
+   A aplicação será aberta no navegador (geralmente em http://localhost:5173).
 
 📄 Licença
 -
